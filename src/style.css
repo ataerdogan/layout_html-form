@@ -1,1 +1,16 @@
 /* styles go here */
+.form-field {
+  display: block;
+  margin: 10px 0;
+
+}
+
+#personal {
+  margin-top: -12px;
+}
+
+.group {
+  margin: 20px 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
