@@ -1,16 +1,14 @@
 /* styles go here */
 .form-field {
   display: block;
-  margin: 10px 0;
+  margin-bottom: 10px;
 
-}
-
-#personal {
-  margin-top: -12px;
 }
 
 .group {
-  margin: 20px 0;
-  padding-top: 0;
-  padding-bottom: 0;
+  margin-bottom: 20px;
+}
+
+.form-field:last-child {
+  margin-bottom: 0;
 }
